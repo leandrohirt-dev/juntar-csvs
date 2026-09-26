@@ -1,0 +1,3 @@
+# Biblioteca padrão basta para a versão com csv.
+# Opcional (versão pandas do vídeo):
+# pandas>=2.0
